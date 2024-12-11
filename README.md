@@ -2,7 +2,7 @@
 
 Erythemato-squamous diseases are challenging to classify due to shared clinical and histopathological features. This repository provides models for subtype classification comparing single-modality and multimodal clinicopathology data.
 
-![Overview](readme_assets/overview.png)
+![Overview](./readme_assets/overview.png)
 
 # Installing packages 
 Please install `numpy`, `pandas`, `sklearn`, `seaborn`, `scipy`, `matplotlib`. You can use pip install or conda.
